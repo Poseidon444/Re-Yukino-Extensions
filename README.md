@@ -1,15 +1,15 @@
 <p align="center">
-    <img src="https://github.com/yukino-org/media/blob/main/images/subbanners/gh-tenka-banner.png?raw=true">
+    <img src="https://github.com/Poseidon444/Re-Yukino/blob/main/media/large.png?raw=true">
 </p>
 
 # Official Tenka Modules
 
-⚡ Officially maintained Tenka modules. Check module status [here](https://github.com/yukino-org/official-tenka-modules/tree/summary#readme).
+⚡ Officially maintained Tenka modules. Check module status [here](https://github.com/Poseidon444/Re-Yukino-Extensions/tree/summary#readme).
 
 By using this project, you agree to the [usage policy](https://yukino-org.github.io/wiki/tenka/disclaimer/).
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Tests](https://github.com/yukino-org/official-tenka-modules/actions/workflows/tests.yml/badge.svg)](https://github.com/yukino-org/official-tenka-modules/actions/workflows/tests.yml)
+[![Tests](https://github.com/Poseidon444/Re-Yukino-Extensions/actions/workflows/tests.yml/badge.svg)](https://github.com/Poseidon444/Re-Yukino-Extensions/actions/workflows/tests.yml)
 
 ## Anime
 
